@@ -22,6 +22,7 @@ Unix Time Stamp format:
 
 Conversion Formula:
 
+![alt text](https://user-images.githubusercontent.com/75325334/102724340-df359080-42dc-11eb-9150-88cfaefe4a27.PNG)
 
 ### **Analysis of Outcomes Based on Launch Date**
 
