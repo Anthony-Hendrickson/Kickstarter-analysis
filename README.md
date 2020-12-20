@@ -22,7 +22,6 @@ Unix Time Stamp format:
 
 Conversion Formula:
 
-![alt text] (https://github.com/Anthony-Hendrickson/Kickstarter-analysis/blob/main/Unix_Timestamp_conversion_formula.PNG)
 
 ### **Analysis of Outcomes Based on Launch Date**
 
