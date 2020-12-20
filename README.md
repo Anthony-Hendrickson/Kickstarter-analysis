@@ -20,6 +20,8 @@ The most challenging part of this data set was converting the date values from t
 
 Unix Time Stamp format:
 
+![alt text](https://user-images.githubusercontent.com/75325334/102724339-dd6bcd00-42dc-11eb-9688-35ddd52c26ea.PNG)
+
 Conversion Formula:
 
 ![alt text](https://user-images.githubusercontent.com/75325334/102724340-df359080-42dc-11eb-9150-88cfaefe4a27.PNG)
@@ -43,6 +45,8 @@ The most challenging aspect of this analysis was the formula required in the 'Ou
 by outcome. This statement must simultaneously meet 3 conditions in each instance which was, at first, a bit of a challenge to wrap my head around.
 
 Screenshot of formula and table:
+
+![alt text](https://user-images.githubusercontent.com/75325334/102724335-da70dc80-42dc-11eb-8372-025d8a2a53fc.PNG)
 
 ## **Results**
 
